@@ -1,6 +1,6 @@
 <a href="https://imgbox.com/nCmuHhDp" target="_blank"><img src="https://thumbs2.imgbox.com/27/ee/nCmuHhDp_t.png" alt="image host"/></a>
 
-< a style="width: 50%; min-width: 50%; border-radius: 100%" href="https://imgbox.com/32rdDTz1" target="_blank"><img src="https://thumbs2.imgbox.com/63/0d/32rdDTz1_t.jpg" alt="image host"/></a>
+<a  img src="https://thumbs2.imgbox.com/63/0d/32rdDTz1_t.jpg" width=50% alt="image host"/></a>
 
 
 - ⚡Hi, I am Danylo Silva 
